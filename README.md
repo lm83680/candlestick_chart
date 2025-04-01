@@ -43,3 +43,6 @@ This allows you to draw any graphics you want on or behind the chart.
             () => chartController.call('followLatest'),
           ),
         )
+```
+
+> ⚠️ This project is still under development and not production-ready. Contributions are welcome! If you plan to use it in a production environment, please refer to [notes_zh.md](./notes_zh.md) for implementation details and architecture design.

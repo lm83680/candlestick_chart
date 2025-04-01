@@ -1,4 +1,7 @@
 # Flutter K线图插件
+
+> ⚠️ 该项目仍在开发中，尚未达到生产环境使用标准。欢迎参与开源贡献！如果计划将其用于生产环境，请查阅 [notes_zh.md](./notes_zh.md) 了解实现细节和架构设计。
+
 Flutter 跨平台K线图插件，支持iOS、Android、Web、Windows、MacOS、Linux。
 - 本项目公共数据来源 —— okx.com
 
