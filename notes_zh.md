@@ -6,7 +6,7 @@ flutter_rust_bridge_codegen generate
 ```
 
 ## 画布系统
-画布系统是本项目的核心，主要用于绘制图形，画布系统的实现基于[Flutter Canvas]，主要用于绘制图形，画布系统的实现基于[Flutter Canvas](flutter.dev/development/ui/graphics/canvas)。
+画布系统的实现基于[Flutter Canvas](flutter.dev/development/ui/graphics/canvas)。
 绘制区隔离，不受Widget树的build()影响。
 
 画布高度 = 绘制区的高度
